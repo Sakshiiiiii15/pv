@@ -1,0 +1,79 @@
+body{
+  margin: 0;
+  text-align: center;
+
+}
+h1{
+  margin: 50px;
+   font-family: Sacramento;
+   font-size: 50px;
+   color:#FF96AD;
+
+
+}
+h2{
+  color:#FF96AD;
+
+
+}
+h3{
+  font-size:20px;
+  margin:0 auto;
+  color:#FF96AD;
+  font-weight:normal;
+
+
+
+}
+a{
+  color:#FF96AD;
+}
+
+.top-container{
+  background-color:#F6E5E9;
+  padding:20px;
+  padding-top: 100px;
+  position: relative;
+
+
+}
+.middle-container{
+
+
+}
+
+.bottom-container{
+
+}
+.pro{
+  text-decoration: underline;
+}
+.bottom-cloud{
+  position:absolute;
+}
+.top-cloud{
+  position: absolute;
+  top: 30px;
+  right:350px;
+
+
+}
+.skill-row{
+   width: 50%;
+   margin:100px auto 100px auto;
+   text-align: left;
+   line-height: 2;
+}
+.dance{
+  width: 25%;
+  float: left;
+  margin-right: 5%;
+}
+.drawing{
+  width:25%;
+  float:right;
+  margin-left: 5%;
+}
+.drawing-para{
+  clear:right;
+}
